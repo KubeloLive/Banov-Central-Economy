@@ -1061,7 +1061,7 @@
 						<point pos="-1.788670 6.240753 2.837159" range="0.269740" height="0.674347" />
 			</container>
 		</group>
-		<group name="ambulancia_crash" lootmax="6">
+		<!--<group name="ambulancia_crash" lootmax="6">
 			<usage name="Medic" />
 			<container name="lootFloor" lootmax="4">
 						<category name="tools" />
@@ -1089,6 +1089,24 @@
 						<point pos="-0.289795 -1.473755 1.725463" range="0.500000" height="1.500000" />
 						<point pos="-2.449951 -0.297974 -0.030152" range="0.500000" height="1.500000" />
 			</container>
+		</group>-->
+		<group name="Land_Wreck_S1023_Medic_Beige_DE" lootmax="10">
+				<usage name="Medic"/>
+				<container name="lootFloor" lootmax="10">
+						<point pos="-1.705301 0.531269 0.438694" range="0.100000" height="0.250000"/>
+						<point pos="-1.174911 0.973920 0.437195" range="0.203125" height="0.507813"/>
+						<point pos="-1.121459 0.919024 -0.670294" range="0.237500" height="0.593750"/>
+						<point pos="-1.282640 0.067672 2.049983" range="0.581250" height="1.453125" flags="32"/>
+						<point pos="0.568811 -0.083350 -1.824341" range="1.096875" height="2.000000" flags="32"/>
+						<point pos="1.524710 0.896021 -0.052272" range="0.650000" height="0.863715"/>
+						<point pos="3.681174 -0.012668 -0.278500" range="0.650000" height="1.625000" flags="32"/>
+						<point pos="0.086878 0.483942 0.411688" range="0.650000" height="1.295670"/>
+						<point pos="1.524754 0.052226 2.008461" range="0.753125" height="1.882813" flags="32"/>
+						<point pos="2.644009 -0.067204 -1.747355" range="0.821875" height="2.000000" flags="32"/>
+						<point pos="-1.673562 -0.097094 -1.753175" range="0.856250" height="2.000000" flags="32"/>
+						<point pos="-3.175378 -0.039291 -0.205491" range="0.856250" height="2.140625" flags="32"/>
+						<point pos="-1.728465 0.473426 -0.689999" range="0.100000" height="0.250000"/>
+				</container>
 		</group>
 		<group name="Land_Tenement_Big" lootmax="8">
 			<usage name="Town" />
@@ -21557,4 +21575,5 @@
 						<point pos="2.946778 -1.439209 0.272705" range="1.008301" height="1.597408" />
 				</container>
 		</group>
+
 </prototype>
