@@ -23,19 +23,6 @@
 						<point pos="-0.022095 0.400101 -0.526611" range="0.375000" height="0.937500" />
 				</container>
 		</group>
-		<group name="Land_Roadblock_WoodenCrate" lootmax="1">
-				<usage name="Military" />
-				<usage name="Police" />
-				<usage name="Medic" />
-				<container name="loot" lootmax="1">
-						<category name="tools" />
-						<category name="clothes" />
-						<category name="weapons" />
-						<tag name="shelves" />
-						<point pos="-0.511108 0.332373 -0.242920" range="0.134375" height="0.335938" />
-						<point pos="0.288574 0.332373 0.025391" range="0.375000" height="0.937500" />
-				</container>
-		</group>
 		<group name="Land_House_1W11_Blue">
 				<usage name="Village" />
 				<container name="lootFloor">
