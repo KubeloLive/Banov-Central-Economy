@@ -26,7 +26,7 @@
 			<export name="Stone5" shape="dz\rocks\stone5.p3d" />
 
 			<export name="QuercusRobur_3d" shape="dz\plants\tree\t_quercusRobur_3d.p3d" />
-<!-- 		<export name="ChickenCoop" shape="dz\structures\Residential\Misc\misc_chickenCoop.p3d" /> --><!--Feathers Eggs Will be moved to normal groups-->
+     		<export name="ChickenCoop" shape="dz\structures\Residential\Misc\misc_chickenCoop.p3d" /> --><!--Feathers Eggs Will be moved to normal groups-->
 <!-- -->
 			<export name="t_LarixDecidua_1f_summer" shape="dz\plants_bliss\tree\t_LarixDecidua_1f_summer.p3d" />
 			<export name="t_LarixDecidua_1s_summer" shape="dz\plants_bliss\tree\t_LarixDecidua_1s_summer.p3d" />
