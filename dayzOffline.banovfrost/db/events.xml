@@ -1028,7 +1028,7 @@
     <flags deletable="0" init_random="0" remove_damaged="1"/>
     <position>fixed</position>
     <limit>mixed</limit>
-    <active>1</active>
+    <active>0</active>
     <children>
       <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Black"/>
       <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Blue"/>
