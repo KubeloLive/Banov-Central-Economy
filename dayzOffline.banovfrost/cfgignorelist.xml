@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ignore>
+  <type name="Bandage"/>
+  <type name="CattleProd"/>
+  <type name="Defibrillator"/>
+  <type name="EngineOil"/>
+  <type name="HescoBox"/>
+  <type name="EasterEgg"/>
+  <type name="StunBaton"/>
+  <type name="TransitBus"/>
+  <type name="BandanaMask_BlackPattern"/>
+  <type name="BandanaMask_CamoPattern"/>
+  <type name="BandanaMask_GreenPattern"/>
+  <type name="BandanaMask_PolkaPattern"/>
+  <type name="BandanaMask_RedPattern"/>
+  <type name="DallasMask"/>
+  <type name="HoxtonMask"/>
+  <type name="WolfMask"/>
+  <type name="Spear"/>
+  <type name="Mag_STANAGCoupled_30Rnd"/>
+  <type name="Wreck_Mi8"/>
+</ignore>
