@@ -1,0 +1,144 @@
+{
+    "version": 130,
+    "GeneralData": {
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
+        "disableRespawnDialog": false,
+        "disableRespawnInUnconsciousness": false
+    },
+    "PlayerData": {
+        "disablePersonalLight": false,
+        "StaminaData": {
+            "sprintStaminaModifierErc": 1.0,
+            "sprintStaminaModifierCro": 1.0,
+            "staminaWeightLimitThreshold": 8000.0,
+            "staminaMax": 200.0,
+            "staminaKgToStaminaPercentPenalty": 1.75,
+            "staminaMinCap": 5.0,
+            "sprintSwimmingStaminaModifier": 1.0,
+            "sprintLadderStaminaModifier": 1.0,
+            "meleeStaminaModifier": 1.0,
+            "obstacleTraversalStaminaModifier": 1.0,
+            "holdBreathStaminaModifier": 1.0
+        },
+        "ShockHandlingData": {
+            "shockRefillSpeedConscious": 5.0,
+            "shockRefillSpeedUnconscious": 1.0,
+            "allowRefillSpeedModifier": true
+        },
+        "MovementData": {
+            "timeToStrafeJog": 0.1,
+            "rotationSpeedJog": 0.3,
+            "timeToSprint": 0.45,
+            "timeToStrafeSprint": 0.3,
+            "rotationSpeedSprint": 0.15,
+            "allowStaminaAffectInertia": true
+        },
+        "DrowningData": {
+            "staminaDepletionSpeed": 10.0,
+            "healthDepletionSpeed": 10.0,
+            "shockDepletionSpeed": 10.0
+        },
+        "WeaponObstructionData": {
+            "staticMode": 1,
+            "dynamicMode": 1
+        }
+    },
+    "WorldsData": {
+        "lightingConfig": 2,
+        "objectSpawnersArr": [],
+        "environmentMinTemps": [
+            -9,
+            -9,
+            -8,
+            -7,
+            -6,
+            -6,
+            -6,
+            -6,
+            -6,
+            -7,
+            -8,
+            -10
+        ],
+        "environmentMaxTemps": [
+            -3,
+            -4,
+            -3,
+            -2,
+            -1,
+            0,
+            0,
+            0,
+            -1,
+            -2,
+            -3,
+            -4
+        ],
+        "wetnessWeightModifiers": [
+            1.0,
+            1.0,
+            1.33,
+            1.66,
+            2.0
+        ]
+    },
+    "BaseBuildingData": {
+        "HologramData": {
+            "disableIsCollidingBBoxCheck": false,
+            "disableIsCollidingPlayerCheck": false,
+            "disableIsClippingRoofCheck": false,
+            "disableIsBaseViableCheck": false,
+            "disableIsCollidingGPlotCheck": false,
+            "disableIsCollidingAngleCheck": false,
+            "disableIsPlacementPermittedCheck": false,
+            "disableHeightPlacementCheck": false,
+            "disableIsUnderwaterCheck": false,
+            "disableIsInTerrainCheck": false,
+            "disableColdAreaPlacementCheck": false,
+            "disallowedTypesInUnderground": [
+                "FenceKit",
+                "TerritoryFlagKit",
+                "WatchtowerKit"
+            ]
+        },
+        "ConstructionData": {
+            "disablePerformRoofCheck": false,
+            "disableIsCollidingCheck": false,
+            "disableDistanceCheck": false
+        }
+    },
+    "UIData": {
+        "use3DMap": false,
+        "HitIndicationData": {
+            "hitDirectionOverrideEnabled": false,
+            "hitDirectionBehaviour": 1,
+            "hitDirectionStyle": 0,
+            "hitDirectionIndicatorColorStr": "0xffbb0a1e",
+            "hitDirectionMaxDuration": 2.0,
+            "hitDirectionBreakPointRelative": 0.2,
+            "hitDirectionScatter": 10.0,
+            "hitIndicationPostProcessEnabled": true
+        }
+    },
+    "MapData": {
+        "ignoreMapOwnership": false,
+        "ignoreNavItemsOwnership": false,
+        "displayPlayerPosition": true,
+        "bunkerBroadcastEnabled": false,
+        "displayNavInfo": true
+    },
+    "VehicleData": {
+        "boatDecayMultiplier": 1,
+        "canDetachAttachedCarWheels": true,
+        "canDamageAttachedCarWheels": true,
+        "canDetachAttachedBikeWheels": true,
+        "canDamageAttachedBikeWheels": true
+    },
+    "ExternalLockData": {
+        "protectionCountStageOne": 3,
+        "protectionCountStageTwo": 1,
+        "protectionTime": 30,
+        "protectionResetTime": 3600
+    }
+}

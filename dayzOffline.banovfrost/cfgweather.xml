@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BANOVFROST 1.30 | Fully winter weather: no rain, seasonal snowfall and wind. -->
+<!-- reset=1 forces winter weather back after persistence; enable=1 activates cfgweather. -->
+<weather reset="1" enable="1">
+  <overcast>
+    <current actual="0.63" time="180" duration="480"/>
+    <limits min="0.25" max="1.0"/>
+    <timelimits min="900" max="2400"/>
+    <changelimits min="0.0" max="0.42"/>
+  </overcast>
+  <fog>
+    <current actual="0.04" time="180" duration="600"/>
+    <limits min="0.0" max="0.15"/>
+    <timelimits min="1200" max="3600"/>
+    <changelimits min="0.0" max="0.06"/>
+  </fog>
+  <rain>
+    <current actual="0.0" time="0" duration="32768"/>
+    <limits min="0.0" max="0.0"/>
+    <timelimits min="1800" max="3600"/>
+    <changelimits min="0.0" max="0.0"/>
+    <thresholds min="1.0" max="1.0" end="120"/>
+  </rain>
+  <windMagnitude>
+    <current actual="4.5" time="120" duration="500"/>
+    <limits min="1.0" max="14.0"/>
+    <timelimits min="600" max="1800"/>
+    <changelimits min="0.0" max="5.0"/>
+  </windMagnitude>
+  <windDirection>
+    <current actual="0.0" time="120" duration="500"/>
+    <limits min="-3.14" max="3.14"/>
+    <timelimits min="600" max="2100"/>
+    <changelimits min="-1.0" max="1.0"/>
+  </windDirection>
+  <snowfall>
+    <current actual="0.25" time="180" duration="600"/>
+    <limits min="0.0" max="0.82"/>
+    <timelimits min="600" max="1800"/>
+    <changelimits min="0.0" max="0.45"/>
+    <thresholds min="0.50" max="1.0" end="180"/>
+  </snowfall>
+  <storm density="0.0" threshold="1.0" timeout="3600"/>
+</weather>
