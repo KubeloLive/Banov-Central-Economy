@@ -1,0 +1,2765 @@
+{
+    "Triggers": [
+        {
+            "Position": [
+                11499.6533203125,
+                528.6737060546875,
+                15040.0859375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                290.0,
+                67.0,
+                67.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11603.6328125,
+                607.2649536132812,
+                15024.0302734375
+            ],
+            "Orientation": [
+                2.354501724243164,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.0,
+                29.0,
+                8.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        11604.94140625,
+                        596.9583740234375,
+                        15023.5244140625
+                    ],
+                    "EyeAccommodation": 0.019999999552965164,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11604.94140625,
+                        600.55859375,
+                        15023.5244140625
+                    ],
+                    "EyeAccommodation": 0.05000000074505806,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11604.94140625,
+                        608.2562866210938,
+                        15023.5244140625
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11604.94140625,
+                        604.6560668945312,
+                        15023.5244140625
+                    ],
+                    "EyeAccommodation": 0.15000000596046448,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11604.94140625,
+                        615.8734741210938,
+                        15023.5244140625
+                    ],
+                    "EyeAccommodation": 0.6000000238418579,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11604.94140625,
+                        612.2732543945312,
+                        15023.5244140625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11604.94140625,
+                        617.6060791015625,
+                        15023.5244140625
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11602.08984375,
+                        617.6060791015625,
+                        15025.70703125
+                    ],
+                    "EyeAccommodation": 0.800000011920929,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11601.134765625,
+                        617.6060791015625,
+                        15021.2685546875
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                11548.927734375,
+                570.791015625,
+                15038.33984375
+            ],
+            "Orientation": [
+                3.0000016689300537,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                168.0,
+                24.0,
+                41.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11613.1552734375,
+                585.4639282226562,
+                15035.1767578125
+            ],
+            "Orientation": [
+                1.9999982118606567,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                27.0,
+                20.0,
+                37.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11632.767578125,
+                607.2649536132812,
+                15042.9853515625
+            ],
+            "Orientation": [
+                2.6379141807556152,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                25.0,
+                29.0,
+                11.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        11623.5048828125,
+                        612.2732543945312,
+                        15045.841796875
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11627.4033203125,
+                        615.8734741210938,
+                        15045.7216796875
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11623.5048828125,
+                        608.2562866210938,
+                        15045.841796875
+                    ],
+                    "EyeAccommodation": 0.20000000298023224,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11623.5048828125,
+                        600.55859375,
+                        15045.841796875
+                    ],
+                    "EyeAccommodation": 0.05000000074505806,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11623.5048828125,
+                        596.9583740234375,
+                        15045.841796875
+                    ],
+                    "EyeAccommodation": 0.019999999552965164,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11623.5048828125,
+                        604.6560668945312,
+                        15045.841796875
+                    ],
+                    "EyeAccommodation": 0.10000000149011612,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11629.7861328125,
+                        615.8734741210938,
+                        15045.5634765625
+                    ],
+                    "EyeAccommodation": 0.3499999940395355,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11640.0,
+                        615.8734741210938,
+                        15045.3671875
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11644.9345703125,
+                        615.8734741210938,
+                        15045.294921875
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11623.5048828125,
+                        616.7235107421875,
+                        15045.841796875
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11634.326171875,
+                        615.8734741210938,
+                        15045.4970703125
+                    ],
+                    "EyeAccommodation": 0.3499999940395355,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11622.1220703125,
+                        616.7235107421875,
+                        15043.2607421875
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                11646.15234375,
+                618.8735961914062,
+                15043.96484375
+            ],
+            "Orientation": [
+                2.790523052215576,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                2.0,
+                4.0,
+                5.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11598.7509765625,
+                619.3009643554688,
+                15026.525390625
+            ],
+            "Orientation": [
+                4.226444244384766,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                3.0,
+                5.0,
+                3.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                457.6070251464844,
+                330.6539001464844,
+                15177.0263671875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.0,
+                6.0,
+                25.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        464.1165466308594,
+                        328.1982116699219,
+                        15185.330078125
+                    ],
+                    "EyeAccommodation": 0.20000000298023224,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        454.2698669433594,
+                        328.1982116699219,
+                        15185.1240234375
+                    ],
+                    "EyeAccommodation": 0.10000000149011612,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        450.4039306640625,
+                        328.1982116699219,
+                        15185.0146484375
+                    ],
+                    "EyeAccommodation": 0.019999999552965164,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        458.6455078125,
+                        328.1982116699219,
+                        15185.2431640625
+                    ],
+                    "EyeAccommodation": 0.20000000298023224,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        458.9439392089844,
+                        328.1982116699219,
+                        15176.4306640625
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        464.3791809082031,
+                        328.1982116699219,
+                        15170.228515625
+                    ],
+                    "EyeAccommodation": 0.9900000095367432,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        454.5323486328125,
+                        328.1982116699219,
+                        15170.0224609375
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        458.9079895019531,
+                        328.1982116699219,
+                        15170.1416015625
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        454.56829833984375,
+                        328.1982116699219,
+                        15176.3115234375
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        464.41497802734375,
+                        328.1982116699219,
+                        15176.517578125
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                464.4651794433594,
+                331.6683349609375,
+                15171.7783203125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                4.0,
+                5.0,
+                14.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                445.9532775878906,
+                325.5238952636719,
+                15186.998046875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                10.0,
+                16.0,
+                11.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                434.5823974609375,
+                293.90106201171875,
+                15183.10546875
+            ],
+            "Orientation": [
+                -1.9999982118606567,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                163.0,
+                53.0,
+                190.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                426.0015563964844,
+                328.4104309082031,
+                15272.775390625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                9.0,
+                18.0,
+                8.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        424.7034606933594,
+                        333.3609924316406,
+                        15273.67578125
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        424.7034606933594,
+                        331.0411376953125,
+                        15273.67578125
+                    ],
+                    "EyeAccommodation": 0.3499999940395355,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        424.7034606933594,
+                        328.7987365722656,
+                        15273.67578125
+                    ],
+                    "EyeAccommodation": 0.20000000298023224,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        424.7034606933594,
+                        326.1949157714844,
+                        15273.67578125
+                    ],
+                    "EyeAccommodation": 0.15000000596046448,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        424.7034606933594,
+                        323.2498779296875,
+                        15273.67578125
+                    ],
+                    "EyeAccommodation": 0.05000000074505806,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        424.7034606933594,
+                        320.9698181152344,
+                        15273.67578125
+                    ],
+                    "EyeAccommodation": 0.019999999552965164,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        427.6758728027344,
+                        333.3609924316406,
+                        15275.931640625
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        425.94891357421875,
+                        333.3609924316406,
+                        15270.359375
+                    ],
+                    "EyeAccommodation": 0.800000011920929,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        428.948974609375,
+                        333.3609924316406,
+                        15270.529296875
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                431.08111572265625,
+                335.1070861816406,
+                15270.9814453125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                2.0,
+                5.0,
+                5.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11314.9755859375,
+                465.4887390136719,
+                12153.9501953125
+            ],
+            "Orientation": [
+                -2.000000238418579,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                28.0,
+                12.0,
+                11.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        11303.259765625,
+                        464.88262939453125,
+                        12153.1455078125
+                    ],
+                    "EyeAccommodation": 0.6499999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11308.6220703125,
+                        463.54754638671875,
+                        12153.7646484375
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11315.1962890625,
+                        463.0900573730469,
+                        12154.5283203125
+                    ],
+                    "EyeAccommodation": 0.15000000596046448,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11321.90625,
+                        462.75,
+                        12154.71484375
+                    ],
+                    "EyeAccommodation": 0.10000000149011612,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11327.83984375,
+                        462.75,
+                        12154.9736328125
+                    ],
+                    "EyeAccommodation": 0.05000000074505806,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                11298.8740234375,
+                467.84942626953125,
+                12152.478515625
+            ],
+            "Orientation": [
+                -1.9999991655349731,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                7.0,
+                8.0,
+                10.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11467.8017578125,
+                454.9020080566406,
+                12021.9833984375
+            ],
+            "Orientation": [
+                -3.999998092651367,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                14.0,
+                8.0,
+                79.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11406.73828125,
+                407.77099609375,
+                12203.8564453125
+            ],
+            "Orientation": [
+                -4.999996185302734,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                210.0,
+                121.0,
+                316.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11471.7978515625,
+                454.50177001953125,
+                11977.5478515625
+            ],
+            "Orientation": [
+                -4.578197479248047,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                11.0,
+                6.0,
+                11.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        11471.0419921875,
+                        452.40093994140625,
+                        11972.6552734375
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11474.4541015625,
+                        452.40093994140625,
+                        11973.07421875
+                    ],
+                    "EyeAccommodation": 0.550000011920929,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11470.853515625,
+                        452.40093994140625,
+                        11977.1865234375
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11474.265625,
+                        452.40093994140625,
+                        11977.60546875
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11470.6474609375,
+                        452.40093994140625,
+                        11982.251953125
+                    ],
+                    "EyeAccommodation": 0.019999999552965164,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11474.0595703125,
+                        452.40093994140625,
+                        11982.6708984375
+                    ],
+                    "EyeAccommodation": 0.10000000149011612,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11475.0595703125,
+                        452.40093994140625,
+                        11980.0029296875
+                    ],
+                    "EyeAccommodation": 0.15000000596046448,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                11471.2119140625,
+                453.86175537109375,
+                11971.244140625
+            ],
+            "Orientation": [
+                -4.730798721313477,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                5.0,
+                4.0,
+                2.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13173.861328125,
+                302.30328369140625,
+                7804.80517578125
+            ],
+            "Orientation": [
+                -5.8862504959106445,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                6.0,
+                4.0,
+                8.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 5.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        13174.3427734375,
+                        300.7917785644531,
+                        7807.775390625
+                    ],
+                    "EyeAccommodation": 0.3499999940395355,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13174.283203125,
+                        300.7917785644531,
+                        7804.97509765625
+                    ],
+                    "EyeAccommodation": 0.10000000149011612,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13174.7275390625,
+                        300.7917785644531,
+                        7803.00927734375
+                    ],
+                    "EyeAccommodation": 0.009999999776482582,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13174.630859375,
+                        300.7917785644531,
+                        7801.697265625
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                13198.1904296875,
+                302.28485107421875,
+                7668.72607421875
+            ],
+            "Orientation": [
+                -22.011272430419922,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                43.0,
+                15.0,
+                108.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13173.2373046875,
+                301.30426025390625,
+                7773.31884765625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                26.0,
+                12.0,
+                32.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13177.115234375,
+                300.90069580078125,
+                7713.10986328125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                20.0,
+                12.0,
+                100.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13178.0166015625,
+                300.90069580078125,
+                7793.80712890625
+            ],
+            "Orientation": [
+                -9.984817504882812,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                42.0,
+                11.0,
+                17.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13339.8828125,
+                316.6656799316406,
+                7544.0048828125
+            ],
+            "Orientation": [
+                -63.140987396240234,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                47.0,
+                66.0,
+                242.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13204.79296875,
+                308.7909851074219,
+                7558.81591796875
+            ],
+            "Orientation": [
+                -79.40899658203125,
+                0.0,
+                -0.9999997615814209
+            ],
+            "Size": [
+                141.0,
+                39.0,
+                91.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13469.248046875,
+                344.7767333984375,
+                7487.484375
+            ],
+            "Orientation": [
+                28.000003814697266,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                61.0,
+                20.0,
+                34.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13174.021484375,
+                302.30328369140625,
+                7809.048828125
+            ],
+            "Orientation": [
+                -5.8862504959106445,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                5.0,
+                4.0,
+                2.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 3.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                8089.9560546875,
+                374.0,
+                10260.4921875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                102.0,
+                47.0,
+                64.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7972.595703125,
+                374.43475341796875,
+                10248.7138671875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                150.0,
+                46.0,
+                65.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7852.529296875,
+                354.7328186035156,
+                10182.9091796875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                12.0,
+                6.0,
+                57.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7774.4482421875,
+                354.6162109375,
+                10090.1865234375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                34.0,
+                9.0,
+                10.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                8080.53466796875,
+                418.0,
+                10259.59375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                78.0,
+                57.0,
+                65.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7785.63623046875,
+                354.99462890625,
+                10111.59765625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.0,
+                8.0,
+                38.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7808.49267578125,
+                354.6626892089844,
+                10123.501953125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                46.0,
+                9.0,
+                14.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7877.33740234375,
+                354.68426513671875,
+                10199.2734375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                48.0,
+                6.0,
+                14.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7819.30419921875,
+                355.2868957519531,
+                10146.3310546875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.0,
+                7.0,
+                38.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 5.75,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7706.626953125,
+                354.81231689453125,
+                9183.8623046875
+            ],
+            "Orientation": [
+                -5.433196067810059,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                14.0,
+                7.0,
+                172.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7688.0537109375,
+                356.77099609375,
+                9806.9833984375
+            ],
+            "Orientation": [
+                18.9999942779541,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                67.0,
+                11.0,
+                354.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7668.51220703125,
+                356.7709045410156,
+                9464.220703125
+            ],
+            "Orientation": [
+                -4.999993324279785,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                45.0,
+                10.0,
+                351.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7896.1484375,
+                354.8438415527344,
+                10222.1171875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                16.0,
+                6.0,
+                46.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7713.76904296875,
+                354.1893615722656,
+                9087.4150390625
+            ],
+            "Orientation": [
+                -5.999996185302734,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                5.0,
+                5.0,
+                2.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7714.41015625,
+                354.704345703125,
+                9093.826171875
+            ],
+            "Orientation": [
+                -5.999995708465576,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                10.0,
+                6.0,
+                11.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 2.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        7714.63037109375,
+                        351.7685241699219,
+                        9088.7236328125
+                    ],
+                    "EyeAccommodation": 0.800000011920929,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        7715.85693359375,
+                        351.7685241699219,
+                        9091.7216796875
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        7715.45849609375,
+                        351.7685241699219,
+                        9094.7666015625
+                    ],
+                    "EyeAccommodation": 0.10000000149011612,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        7714.96044921875,
+                        351.7685241699219,
+                        9098.5625
+                    ],
+                    "EyeAccommodation": 0.029999999329447746,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                7751.75341796875,
+                354.6029968261719,
+                10071.1845703125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                22.0,
+                14.0,
+                49.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7696.54248046875,
+                356.22021484375,
+                9278.7763671875
+            ],
+            "Orientation": [
+                -6.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                16.0,
+                7.0,
+                28.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7737.45751953125,
+                354.3353576660156,
+                10015.2607421875
+            ],
+            "Orientation": [
+                0.9999971985816956,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.0,
+                10.0,
+                95.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7839.9287109375,
+                355.1170959472656,
+                10157.255859375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                35.0,
+                8.0,
+                12.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                8071.7685546875,
+                493.89990234375,
+                10253.1630859375
+            ],
+            "Orientation": [
+                -4.490960597991943,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                23.0,
+                8.0,
+                14.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                8077.07958984375,
+                468.93804931640625,
+                10260.8583984375
+            ],
+            "Orientation": [
+                -2.201878547668457,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                39.0,
+                44.0,
+                33.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                8067.9609375,
+                504.62738037109375,
+                10250.626953125
+            ],
+            "Orientation": [
+                -4.490959644317627,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                3.0,
+                4.0,
+                2.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                8070.25,
+                501.8989562988281,
+                10255.1123046875
+            ],
+            "Orientation": [
+                -4.490960597991943,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                8.0,
+                9.0,
+                7.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 2.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        8070.33740234375,
+                        497.9234619140625,
+                        10256.17578125
+                    ],
+                    "EyeAccommodation": 0.019999999552965164,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8070.33740234375,
+                        501.3785400390625,
+                        10256.17578125
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8073.25146484375,
+                        502.9351806640625,
+                        10253.1630859375
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8067.779296875,
+                        502.9351806640625,
+                        10255.169921875
+                    ],
+                    "EyeAccommodation": 0.4000000059604645,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8070.33740234375,
+                        499.64349365234375,
+                        10256.17578125
+                    ],
+                    "EyeAccommodation": 0.15000000596046448,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                8180.82421875,
+                227.3519287109375,
+                1252.5040283203125
+            ],
+            "Orientation": [
+                -24.99997329711914,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                9.0,
+                19.0,
+                9.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        8181.69482421875,
+                        233.45201110839844,
+                        1251.455322265625
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8178.1875,
+                        228.44020080566406,
+                        1252.9278564453125
+                    ],
+                    "EyeAccommodation": 0.20000000298023224,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8179.72705078125,
+                        227.1420440673828,
+                        1255.5484619140625
+                    ],
+                    "EyeAccommodation": 0.10000000149011612,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8178.14208984375,
+                        233.45201110839844,
+                        1252.400146484375
+                    ],
+                    "EyeAccommodation": 0.75,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8182.54638671875,
+                        230.98707580566406,
+                        1255.1986083984375
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8179.802734375,
+                        232.0545654296875,
+                        1255.6771240234375
+                    ],
+                    "EyeAccommodation": 0.6499999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        8181.20166015625,
+                        229.81346130371094,
+                        1252.6727294921875
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                8166.0576171875,
+                220.91360473632812,
+                1257.4052734375
+            ],
+            "Orientation": [
+                -21.16872787475586,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                19.0,
+                8.0,
+                26.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                8180.5888671875,
+                234.73318481445312,
+                1247.19189453125
+            ],
+            "Orientation": [
+                -25.000043869018555,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                3.0,
+                4.0,
+                3.000999927520752
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7954.548828125,
+                490.5881042480469,
+                10221.16015625
+            ],
+            "Orientation": [
+                -97.83552551269531,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                5.0,
+                6.0,
+                9.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                7991.60546875,
+                485.2760009765625,
+                10230.5556640625
+            ],
+            "Orientation": [
+                -5.000000476837158,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                113.0,
+                16.0,
+                23.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13998.03515625,
+                516.1883544921875,
+                3832.739013671875
+            ],
+            "Orientation": [
+                -51.76626205444336,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                13.0,
+                5.0,
+                7.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14077.912109375,
+                505.9267578125,
+                3794.63525390625
+            ],
+            "Orientation": [
+                34.16110610961914,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.0,
+                36.0,
+                8.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        14078.6064453125,
+                        509.57159423828125,
+                        3794.36181640625
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        14078.6064453125,
+                        489.5327453613281,
+                        3794.36181640625
+                    ],
+                    "EyeAccommodation": 0.009999999776482582,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        14078.1181640625,
+                        519.8786010742188,
+                        3798.093994140625
+                    ],
+                    "EyeAccommodation": 0.6000000238418579,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        14074.875,
+                        519.8786010742188,
+                        3793.601806640625
+                    ],
+                    "EyeAccommodation": 0.6000000238418579,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        14078.6064453125,
+                        494.2019958496094,
+                        3794.36181640625
+                    ],
+                    "EyeAccommodation": 0.029999999329447746,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        14078.6064453125,
+                        499.3585205078125,
+                        3794.36181640625
+                    ],
+                    "EyeAccommodation": 0.05000000074505806,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        14078.6064453125,
+                        504.3872985839844,
+                        3794.36181640625
+                    ],
+                    "EyeAccommodation": 0.15000000596046448,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        14078.6064453125,
+                        519.8786010742188,
+                        3794.36181640625
+                    ],
+                    "EyeAccommodation": 0.550000011920929,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        14078.6064453125,
+                        514.836181640625,
+                        3794.36181640625
+                    ],
+                    "EyeAccommodation": 0.4000000059604645,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                14075.4130859375,
+                521.3237915039062,
+                3799.095947265625
+            ],
+            "Orientation": [
+                34.29887390136719,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                2.0,
+                5.0,
+                3.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14173.3427734375,
+                423.94500732421875,
+                3813.325927734375
+            ],
+            "Orientation": [
+                15.999955177307129,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                395.0,
+                130.0,
+                111.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                14011.85546875,
+                495.35687255859375,
+                3835.7353515625
+            ],
+            "Orientation": [
+                -50.43027114868164,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                45.0,
+                21.0,
+                24.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                13992.849609375,
+                506.5936584472656,
+                3837.344482421875
+            ],
+            "Orientation": [
+                -51.37390899658203,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                12.0,
+                25.0,
+                7.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        13993.8037109375,
+                        494.9718322753906,
+                        3836.08251953125
+                    ],
+                    "EyeAccommodation": 0.009999999776482582,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13992.8681640625,
+                        500.92584228515625,
+                        3836.8642578125
+                    ],
+                    "EyeAccommodation": 0.05000000074505806,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13992.8681640625,
+                        505.2900695800781,
+                        3836.8642578125
+                    ],
+                    "EyeAccommodation": 0.15000000596046448,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13992.8681640625,
+                        510.4041748046875,
+                        3836.8642578125
+                    ],
+                    "EyeAccommodation": 0.30000001192092896,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13992.8681640625,
+                        514.7805786132812,
+                        3836.8642578125
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13997.2236328125,
+                        514.7805786132812,
+                        3838.62841796875
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13991.4716796875,
+                        494.9718322753906,
+                        3833.408203125
+                    ],
+                    "EyeAccommodation": 0.009999999776482582,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        13992.0966796875,
+                        498.0566711425781,
+                        3837.478759765625
+                    ],
+                    "EyeAccommodation": 0.019999999552965164,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                12745.900390625,
+                319.104248046875,
+                10930.890625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                2.0,
+                15.0,
+                2.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                12847.28515625,
+                310.70599365234375,
+                10861.1025390625
+            ],
+            "Orientation": [
+                43.00004577636719,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                300.0,
+                19.0,
+                300.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                5231.3515625,
+                214.18701171875,
+                10316.23046875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                2.0,
+                11.0,
+                2.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                5228.7822265625,
+                213.0874786376953,
+                10315.724609375
+            ],
+            "Orientation": [
+                10.000003814697266,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                22.0,
+                9.0,
+                8.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 5.5,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                5147.755859375,
+                200.76100158691406,
+                10454.0126953125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                151.0,
+                22.0,
+                321.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 6.75,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11469.0166015625,
+                442.7820129394531,
+                11905.8623046875
+            ],
+            "Orientation": [
+                -28.0000057220459,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                68.0,
+                10.0,
+                10.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "caveBig",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11450.552734375,
+                445.2359924316406,
+                11932.5
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                6.0,
+                12.0,
+                12.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11451.40625,
+                444.17962646484375,
+                11910.2939453125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.0,
+                10.0,
+                16.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11445.3330078125,
+                441.7054748535156,
+                11878.5869140625
+            ],
+            "Orientation": [
+                85.2363510131836,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                38.0,
+                9.0,
+                10.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11447.96484375,
+                445.3437805175781,
+                11847.1
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.0,
+                13.0,
+                10.2
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                11450.552734375,
+                445.2359924316406,
+                11922.0
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                6.0,
+                12.0,
+                10.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        11450.552734375,
+                        445.23,
+                        11925.0
+                    ],
+                    "EyeAccommodation": 1.0,
+                    "UseRaycast": 0,
+                    "Radius": 6.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11450.8,
+                        444.7,
+                        11922.0
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": 6.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11451.3,
+                        444.2,
+                        11919.0
+                    ],
+                    "EyeAccommodation": 0.02,
+                    "UseRaycast": 0,
+                    "Radius": 6.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                11447.96484375,
+                445.3437805175781,
+                11856.7
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                8.0,
+                13.0,
+                10.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        11447.9,
+                        445.3,
+                        11853.0
+                    ],
+                    "EyeAccommodation": 1.0,
+                    "UseRaycast": 0,
+                    "Radius": 6.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11447.3,
+                        444.1,
+                        11856.3
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": 6.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        11446.3,
+                        442.8,
+                        11859.2
+                    ],
+                    "EyeAccommodation": 0.02,
+                    "UseRaycast": 0,
+                    "Radius": 6.0,
+                    "LightLerp": 0
+                }
+            ]
+        }
+    ]
+}

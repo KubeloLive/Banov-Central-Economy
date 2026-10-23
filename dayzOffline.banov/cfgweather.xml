@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<weather reset="0" enable="0">
+
+    <!-- CLEAN SUMMER BANOV -->
+
+    <overcast>
+        <current actual="0.10" time="120" duration="900"/>
+        <limits min="0.0" max="0.45"/>
+        <timelimits min="2400" max="4800"/>
+        <changelimits min="0.0" max="0.12"/>
+    </overcast>
+
+    <fog>
+        <current actual="0.00" time="0" duration="0"/>
+        <limits min="0.00" max="0.03"/>
+        <timelimits min="3600" max="7200"/>
+        <changelimits min="0.0" max="0.005"/>
+    </fog>
+
+    <rain>
+        <current actual="0.0" time="120" duration="300"/>
+        <limits min="0.0" max="0.35"/>
+        <timelimits min="1200" max="3600"/>
+        <changelimits min="0.0" max="0.10"/>
+        <thresholds min="0.55" max="0.90" end="120"/>
+    </rain>
+
+    <windMagnitude>
+        <current actual="1.5" time="120" duration="300"/>
+        <limits min="0.0" max="8.0"/>
+        <timelimits min="1200" max="2400"/>
+        <changelimits min="0.0" max="0.04"/>
+    </windMagnitude>
+
+    <windDirection>
+        <current actual="0.0" time="120" duration="240"/>
+        <limits min="-3.5" max="3.5"/>
+        <timelimits min="900" max="1800"/>
+        <changelimits min="-0.3" max="0.3"/>
+    </windDirection>
+
+    <snowfall>
+        <current actual="0.0" time="0.0" duration="300"/>
+        <limits min="0.0" max="0.0"/>
+        <timelimits min="900" max="1800"/>
+        <changelimits min="0.0" max="0.0"/>
+        <thresholds min="1.0" max="1.0" end="600"/>
+    </snowfall>
+
+    <!-- VERY RARE SUMMER STORMS -->
+    <storm density="0.30" threshold="0.88" timeout="3600"/>
+
+</weather>
